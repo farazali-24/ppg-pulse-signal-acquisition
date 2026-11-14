@@ -1,0 +1,28 @@
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+*.orig
+
+# Fritzing backup files
+*.fzz.bak
+*.fz.bak
+
+# Editor settings
+.vscode/
+.idea/
